@@ -6,7 +6,7 @@ PROBLEM ADDRESSED:
  
  SOLUTION:  
   Automate the Entire process.  
-  First run the python file in an IDE.  
+  First run the python file in an IDE.(You can also change the default app from IDE to python by changing the proerties of file and then just clicking on the resultant icon).
  Two cases:  
  1. If I having a textual file:  
       I just have to select the text and press ctrl+C this will automatically search for the text in your default browser.  
